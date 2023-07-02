@@ -367,7 +367,7 @@ button {
     }
 }
 
-@media (max-width: 768px) and (max-width: 992px){
+@media (min-width: 768px) and (max-width: 992px){
     
     .title {
         text-align: center;
@@ -707,7 +707,7 @@ button {
     }
 }
 
-@media (max-width: 1550px){
+@media (min-width: 1000px){
     
     .title {
         text-align: center;
