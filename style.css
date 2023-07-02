@@ -707,17 +707,19 @@ button {
     }
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1550px){
     
     .title {
         text-align: center;
-        font-size: 45px;
+        font-size: 100px;
+    
     }
 
     .sub-title {
-        
-        margin-top: 20px;
-        font-size: 15px;
+        text-align: center;
+        margin-top: 60px;
+        font-size: 30px;
+    
     }
 }
 
